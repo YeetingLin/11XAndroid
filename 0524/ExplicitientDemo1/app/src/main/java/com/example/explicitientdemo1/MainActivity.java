@@ -29,7 +29,8 @@ public class MainActivity extends AppCompatActivity {
                         bundle.putInt("TEMPC",tempC);
                         bundle.putString("PLACE",edtPlace.getText().toString());
                         intent.putExtra(bundle);
-                        
+
+
 
 
                     }
