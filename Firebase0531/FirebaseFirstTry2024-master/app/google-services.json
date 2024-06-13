@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "171377982007",
+    "firebase_url": "https://fir-demo2024-ed10c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-demo2024-ed10c",
+    "storage_bucket": "fir-demo2024-ed10c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171377982007:android:326fbfa7162a0000921db2",
+        "android_client_info": {
+          "package_name": "com.demo.firebasefirsttry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVr9UTgT8cdX7IkKU3KpLan1g7gDejTPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171377982007:android:703714d69007874e921db2",
+        "android_client_info": {
+          "package_name": "com.example.mydemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVr9UTgT8cdX7IkKU3KpLan1g7gDejTPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
